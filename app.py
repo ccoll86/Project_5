@@ -36,7 +36,7 @@ def get_fibonacci(n):
     while (a<=n):
         print(a,end=' ')
         a,b=b,a+b
-        result1.append()
+        result1.append(print())
     if n<=0:
         print("Incorrect input, please put a positive number")
     
